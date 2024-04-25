@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">RU Cafe</string>
+
+
+    <string-array name="itemNames">
+        <item>Creamy Glazed (Yeast)</item>
+        <item>Jelly Filled (Yeast)</item>
+        <item>Chocolate Frosted (Yeast)</item>
+        <item>Strawberry Frosted (Yeast)</item>
+        <item>Original Sugar (Yeast)</item>
+        <item>Lemon Filled (Yeast)</item>
+        <item>Cinnamon Sugar (Cake)</item>
+        <item>Blueberry Blues (Cake)</item>
+        <item>Old Fashion (Cake) </item>
+        <item>Creamy Glazed (Holes)</item>
+        <item>Jelly Filled (Holes)</item>
+        <item>Cinnamon Sugar (Holes)</item>
+    </string-array>
+
+    <string-array name="quantity">quantity
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string name="sweet_cream">Sweet Cream</string>
+    <string name="french_vanilla">French Vanilla</string>
+    <string name="irish_cream">Irish Cream</string>
+    <string name="caramel">Caramel</string>
+    <string name="mocha">Mocha</string>
+    <string name="place_order">Place Order</string>
+    <string name="order_donut">Order Donut</string>
+    <string name="order_coffee">Order Coffee</string>
+    <string name="add_to_order">Add to Order</string>
+    <string name="subtotal">subtotal</string>
+    <string name="subtotal2">Subtotal</string>
+    <string name="subtotal3">Subtotal:</string>
+    <string name="your_order">Your Order</string>
+    <string name="sales_tax">sales tax</string>
+    <string name="sales_tax2">Sales Tax:</string>
+    <string name="total">total</string>
+    <string name="total2">Total:</string>
+    <string name="order_donut1">Order Donut</string>
+    <string name="order_coffee1">Order Coffee</string>
+    <string name="order_yourbag1">Your Bag</string>
+    <string name="order_storeorder">Store Order</string>
+    <string name="order_store">Store Order</string>
+
+</resources>
